@@ -52,7 +52,7 @@ Mobil uygulamalarda AI entegrasyonu
 
 💼 LinkedIn Profilim: https://www.linkedin.com/in/muhammet-emir-haksever/
 
-🧰 GitHub Profilim
+🧰 GitHub Profilim: https://github.com/EmirHaksever
 
 📧 E-posta: ehaksever264@gmail.com
 
