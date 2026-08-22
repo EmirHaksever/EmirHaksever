@@ -1,61 +1,46 @@
-Emir Haksever | Yazılım Geliştirici Adayı
+# Emir Haksever
 
-👋 Merhaba! Ben Emir Haksever, Bilişim Teknolojileri 4. sınıf öğrencisiyim.
-Yazılım geliştirme alanında kendimi sürekli geliştiriyor, modern teknolojilerle gerçek projeler üretmeye odaklanıyorum.
+**Junior Software Developer** · İstanbul  
+Laravel · Flutter · Node.js · REST API
 
-🚀 Uzmanlık Alanlarım
+2026 mezunu yazılım geliştiriciyim. Laravel ile REST API ve RBAC panelleri, Flutter ile mobil uygulamalar, Node.js ile backend servisleri geliştirdim. Teslimlerimde test, dokümantasyon ve ölçüm disiplini var: her değişiklik doğrulanır, her yayın geri alınabilir.
 
-Mobil Uygulama Geliştirme (Flutter, Supabase, Firebase)
+**[emirhaksever.com](https://emirhaksever.com)** · [LinkedIn](https://www.linkedin.com/in/muhammet-emir-haksever-926532314/) · [CV](https://emirhaksever.com/assets/Muhammet-Emir-Haksever-CV.pdf) · [ehaksever264@gmail.com](mailto:ehaksever264@gmail.com)
 
-Backend & API Entegrasyonları (Python, Flask)
+---
 
-Masaüstü Uygulama Geliştirme (C#)
+## Ne üzerine çalışıyorum
 
-Yapay Zekâ Destekli Öneri Sistemleri
+- **Web & backend** — Laravel / Node.js REST API, RBAC, Swagger, MySQL
+- **Mobil** — Flutter (Provider / Riverpod), web–mobil ortak backend
+- **Canlı sistem** — Plesk/VDS deploy, SSL, performans ölçümü, rollback
+- **Entegrasyon** — webhook, üçüncü parti API, e-ticaret operasyonları
 
-Veri Dönüşümü ve Otomasyon Sistemleri
+Stajlar: **Dijicrea** (Laravel destek paneli, kurumsal web) · **Toserof** (canlı backend, performans, AI entegrasyonu)
 
-💼 Projelerimden Bazıları
+---
 
-🛒 Mobil Alışveriş Listesi Uygulaması – Flutter + Supabase
+## Seçilmiş işler
 
-Yapay zekâ entegrasyonu ile kullanıcı alışkanlıklarına göre öneriler sunan, anlık stok takibi yapan alışveriş listesi uygulaması.
-Gerçek zamanlı veri senkronizasyonu, paylaşım yönetimi, istatistikler ve ürün öneri sistemi içerir.
+| Proje | Stack | Ne yaptım |
+| --- | --- | --- |
+| [Kişisel portfolyo](https://emirhaksever.com) | HTML/CSS/JS · PHP admin · JSON build | Tek kaynak `data.json`, build ile statik site, kendi admin panelim |
+| Destek / talep paneli | Laravel · Swagger · Flutter | RBAC, e-posta bildirimleri, aynı API’yi tüketen mobil istemci |
+| Kargo operasyon platformu | Node.js · Plesk · SSL | Uçtan uca üretim deploy; ölçüm ve rollback ile canlı teslim |
+| [“Ne Yesem?”](https://github.com/EmirHaksever/ne-yesem-app) | Flutter · REST API | Tarif asistanı; favori ve liste durumu lokalde |
 
-🌐 Kişisel Blog Web Sitesi – Wordpress
+Case study’ler, yazılar ve diğer projeler: **[emirhaksever.com](https://emirhaksever.com)**
 
-Kendi kişisel blog sayfamı sıfırdan tasarladım ve geliştirdim.
-Modern arayüz tasarımı ve responsive (mobil uyumlu) yapı içerir.
+---
 
-🧾 XML → Shopify Dönüştürücü – Python + Flask
+## Teknolojiler
 
-Farklı tedarikçilerden gelen XML dosyalarını analiz ederek Shopify uyumlu CSV formatına dönüştüren akıllı otomasyon uygulaması.
-API entegrasyonları ve veri normalizasyonu ile e-ticaret operasyonlarında verimlilik sağlar.
+`Laravel` `PHP` `Node.js` `Express` `REST` `Swagger` `MySQL`  
+`Flutter` `Dart` `Riverpod` `JavaScript` `HTML/CSS`  
+`Git` `Plesk` `SSL` `Lighthouse`
 
-📦 Stok Takip Uygulaması – C# (Görsel Programlama)
+---
 
-Depo ürünlerini takip eden ve stok durumu uyarıları veren masaüstü uygulama.
-Marker, sayaç, ve kenar tetikleme mantığıyla stok hareketlerini analiz eder.
+## Şu an
 
-🧩 Kullandığım Teknolojiler
-
-Flutter · Dart · Supabase · Firebase · Python · Flask · C# · Git · REST API · HTML · CSS · JavaScript
-
-🌱 Şu Anda Öğrenmekte Olduklarım
-
-Backend mimarisi (Supabase, Flask, Node.js)
-
-Mobil uygulamalarda AI entegrasyonu
-
-
-📫 Bana Ulaşın
-
-💼 LinkedIn Profilim: https://www.linkedin.com/in/muhammet-emir-haksever/
-
-🧰 GitHub Profilim: https://github.com/EmirHaksever
-
-📧 E-posta: ehaksever264@gmail.com
-
-✨ Küçük Bir Not
-
-“Öğrenmek, üretmek ve paylaşmak; yazılım dünyasında ilerlemenin üç temel adımıdır.”
+Full-stack, backend ve Flutter junior pozisyonlarına açığım. TypeScript ve SQL’i derinleştiriyor, kişisel projeleri GitHub’da yayına hazırlıyorum.
